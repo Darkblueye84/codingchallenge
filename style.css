@@ -1,0 +1,62 @@
+body{
+    background-image: url(background.jpg);
+    background-size: 100%;
+  }
+  header{
+    text-align: center;
+  }
+  .contenitore{
+    width: 700px;
+    margin-top: 2%;
+    margin-left: 20%;
+    border-radius: 10px 10px 10px 10px;
+    border: 10px solid #151515;
+    padding: 35px;
+    background-color: #151515;
+    opacity: 80%;
+  }
+  .logo{
+    width: 200px;
+  }
+  .titolo{
+    color: #00ff00;
+    font-size: 30px;
+    margin: auto;
+  }
+  nav{
+    border: 8px solid #00ff00;
+    background-color: #00ff00;
+    text-align: center;
+  }
+  .sezione{
+    font-size: 13px;
+    margin-top: 10px;
+  }
+  .tasto, .monopattino, .freccia, .indirizzo{
+    display: inline-block;
+    margin: 2px;
+    color: white;
+  }
+  .stato{
+    margin: 2px;
+    color: white;
+  }
+  .caricaarancio{
+    border-radius: 8px 8px 8px 8px;
+    background-color: orange;
+    width: 35%;
+    border: 8px solid orange;
+  }
+  .caricaverde{
+    border-radius: 8px 8px 8px 8px;
+    background-color: #00ff00;
+    width: 90%;
+    border: 8px solid #00ff00;
+  }
+  .caricarossa{
+    border-radius: 8px 8px 8px 8px;
+    background-color: red;
+    width: 15%;
+    border: 8px solid red;
+  }
+  
